@@ -3,7 +3,6 @@ package footy;
 import java.io.PrintWriter;
 
 public class FootyTester {
-
 	/* This program tests your FootyScore class.  The expected
 	 * output can be found in the question sheet.
 	 */
